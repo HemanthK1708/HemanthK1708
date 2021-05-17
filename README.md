@@ -1,8 +1,6 @@
 <h1 align="center">Hi PEEPS👋, I'm Hemanth Kumar Chilamkurthi</h1>
 <h3 align="center">A passionate developer trying to Figure-Out stuff !</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanthk1708&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthk1708" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemanthk1708" alt="hemanthk1708" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/hemanthk1708" target="blank"><img src="https://img.shields.io/twitter/follow/hemanthk1708?logo=twitter&style=for-the-badge" alt="hemanthk1708" /></a> </p>
