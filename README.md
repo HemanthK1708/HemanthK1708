@@ -1,42 +1,56 @@
-<h1 align="center">Hi PEEPS👋, I'm Hemanth Kumar Chilamkurthi</h1>
-<h3 align="center">A passionate developer trying to Figure-Out stuff !</h3>
+Hi PEEPS 👋 I'm Hemanth Kumar Chilamkurthi
+===========================================
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemanthk1708" alt="hemanthk1708" /></a> </p>
+A passionate developer trying to Figure-Out stuff !
+---------------------------------------------------
 
-<p align="left"> <a href="https://twitter.com/hemanthk1708" target="blank"><img src="https://img.shields.io/twitter/follow/hemanthk1708?logo=twitter&style=for-the-badge" alt="hemanthk1708" /></a> </p>
+* 🌍  I'm based in ANDHRA PRADESH, INDIA
+* 🖥️  See my portfolio at [My Portfolio](http://github.com/HemanthK1708)
+* ✉️  You can contact me at [hemanth.kumarchilamkurthi@gmail.com](mailto:hemanth.kumarchilamkurthi@gmail.com)
+* 🧠  I'm learning Full Stack Development
+* 🤝  I'm open to collaborating on interesting projects.
+* ⚡  I'm secretly IRONMAN... but don't tell anyone.
+* 😎  Fun Fact - One Man's crappy software is another man's full time job.
 
-- 🔭 I’m currently working on **Virtual Assistant**
+<a href="https://www.twitter.com/hemanthk1708" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/hemanthk1708?logo=twitter&style=for-the-badge&color=ef4444&labelColor=22272e"
+/></a><a href="https://www.github.com/hemanthk1708" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/hemanthk1708?logo=github&style=for-the-badge&color=ef4444&labelColor=22272e" /></a>
 
-- 🌱 I’m currently learning **Full Stack Devlopment with ML Pathway**
+### Skills
 
-- 👨‍💻 All of my projects are available at [https://github.com/HemanthK1708](https://github.com/HemanthK1708)
-
-- 💬 Ask me about **Flutter, Kotlin and Anything**
-
-- 📫 How to reach me **hemanth.kumarchilamkurthi@gmail.com**
-
-- ⚡ Fun fact **One man’s crappy software is another man’s full-time job.**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/hemanthk1708" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hemanthk1708" height="30" width="40" /></a>
-<a href="https://twitter.com/hemanthk1708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="hemanthk1708" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hemanth kumar chilamkurthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="hemanth kumar chilamkurthi" height="30" width="40" /></a>
-<a href="https://kaggle.com/hemanthk1708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="hemanthk1708" height="30" width="40" /></a>
-<a href="https://fb.com/hemanth chilamkurthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="hemanth chilamkurthi" height="30" width="40" /></a>
-<a href="https://instagram.com/hemanth_chilamkurthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="hemanth_chilamkurthi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hemanthk1708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="hemanthk1708" height="30" width="40" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<a href="https://filebase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="36" height="36" alt="Filebase" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemanthk1708&show_icons=true&locale=en&layout=compact" alt="hemanthk1708" /></p>
+### Socials
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemanthk1708&show_icons=true&locale=en" alt="hemanthk1708" /></p>
+<p align="left"> <a href="https://www.dev.to/hemanthk1708" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/hemanthkumarchilamkurthi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/hemanthk1708" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/hemanth_chilamkurthi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hemanth-kumar-chilamkurthi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/hemanthk1708" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthk1708&" alt="hemanthk1708" /></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/hemanthk1708"><img src="https://github-readme-stats.vercel.app/api?username=hemanthk1708&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&show_icons=true" alt="hemanthk1708's GitHub stats" /></a>
+
+<a href="http://www.github.com/hemanthk1708"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthk1708&stroke=ffffff&background=22272e&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/hemanthk1708"><img src="https://activity-graph.herokuapp.com/graph?username=hemanthk1708&bg_color=22272e&color=ffffff&line=ef4444&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/hemanthk1708" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthk1708&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/hemanthk1708/FB-Clone-Final" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hemanthk1708&repo=FB-Clone-Final&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/hemanthk1708/PACMAN-using-Python" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hemanthk1708&repo=PACMAN-using-Python&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/hemanthk1708/Health-Aware" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hemanthk1708&repo=Health-Aware&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/hemanthk1708/Python-Bootcamp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hemanthk1708&repo=Python-Bootcamp&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en" /></a></div>
