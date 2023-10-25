@@ -1,56 +1,53 @@
-Hi PEEPS 👋 I'm Hemanth Kumar Chilamkurthi
-===========================================
+<h2 align="center">Hi PEEPS 👋 I'm Hemanth Kumar Chilamkurthi,<br>A passionate Software Engineer trying to Figure-Out stuff !</h2>
 
-A passionate developer trying to Figure-Out stuff !
----------------------------------------------------
+###
 
-* 🌍  I'm based in ANDHRA PRADESH, INDIA
-* 🖥️  See my portfolio at [My Portfolio](http://github.com/HemanthK1708)
-* ✉️  You can contact me at [hemanth.kumarchilamkurthi@gmail.com](mailto:hemanth.kumarchilamkurthi@gmail.com)
-* 🧠  I'm learning Full Stack Development
-* 🤝  I'm open to collaborating on interesting projects.
-* ⚡  I'm secretly IRONMAN... but don't tell anyone.
-* 😎  Fun Fact - One Man's crappy software is another man's full time job.
+<p align="left">🌍  I'm based in ANDHRA PRADESH, INDIA<br>✉️  You can contact me at hemanth.kumarchilamkurthi@gmail.com<br>🧠  I'm learning Full Stack Development<br>🤝  I'm open to collaborating on interesting projects.<br>⚡  I'm secretly IRONMAN... but don't tell anyone.<br>😎 Fun Fact - One Man's crappy software is another man's full time job.</p>
 
-<a href="https://www.twitter.com/hemanthk1708" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/hemanthk1708?logo=twitter&style=for-the-badge&color=ef4444&labelColor=22272e"
-/></a><a href="https://www.github.com/hemanthk1708" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/hemanthk1708?logo=github&style=for-the-badge&color=ef4444&labelColor=22272e" /></a>
+###
 
-### Skills
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HemanthK1708&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HemanthK1708&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=HemanthK1708&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://filebase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="36" height="36" alt="Filebase" /></a>
-</p>
+###
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
+</div>
 
-### Socials
+###
 
-<p align="left"> <a href="https://www.dev.to/hemanthk1708" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/hemanthkumarchilamkurthi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/hemanthk1708" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/hemanth_chilamkurthi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hemanth-kumar-chilamkurthi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/hemanthk1708" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<div align="center">
+  <a href="https://www.instagram.com/hemanth_chilamkurthi/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/hemanth-kumar-chilamkurthi/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="hemanth.kumarchilamkurthi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
 
-### Badges
+###
 
-<b>My GitHub Stats</b>
+<br clear="both">
 
-<a href="http://www.github.com/hemanthk1708"><img src="https://github-readme-stats.vercel.app/api?username=hemanthk1708&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&show_icons=true" alt="hemanthk1708's GitHub stats" /></a>
+<img src="https://raw.githubusercontent.com/HemanthK1708/HemanthK1708/output/snake.svg" alt="Snake animation" />
 
-<a href="http://www.github.com/hemanthk1708"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthk1708&stroke=ffffff&background=22272e&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/hemanthk1708"><img src="https://activity-graph.herokuapp.com/graph?username=hemanthk1708&bg_color=22272e&color=ffffff&line=ef4444&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/hemanthk1708/FB-Clone-Final" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hemanthk1708&repo=FB-Clone-Final&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/hemanthk1708/PACMAN-using-Python" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hemanthk1708&repo=PACMAN-using-Python&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/hemanthk1708/Health-Aware" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hemanthk1708&repo=Health-Aware&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/hemanthk1708/Python-Bootcamp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hemanthk1708&repo=Python-Bootcamp&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en" /></a></div>
+###
