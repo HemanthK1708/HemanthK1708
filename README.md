@@ -4,7 +4,7 @@
 
 <p align="left">🌍  I'm based in ANDHRA PRADESH, INDIA<br>✉️  You can contact me at hemanth.kumarchilamkurthi@gmail.com<br>🧠  I'm learning Full Stack Development<br>🤝  I'm open to collaborating on interesting projects.<br>⚡  I'm secretly IRONMAN... but don't tell anyone.<br>😎 Fun Fact - One Man's crappy software is another man's full time job.</p>
 
-###
+### My Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HemanthK1708&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
@@ -44,7 +44,7 @@
 
 
 <br clear="both">
-
+    
 <img src="https://raw.githubusercontent.com/HemanthK1708/HemanthK1708/output/snake.svg" alt="Snake animation" />
 
 ###
